@@ -1,16 +1,13 @@
-# test_app1
+# Profile App
 
 A new Flutter project.
 
 ## Getting Started
+This project contains a simple implementation using Flutter.
+It contains the look of profile page .
 
-This project is a starting point for a Flutter application.
+This contains the name and email of the person .
+In place of the photo of the person you can place your own photo .
+By double tapping on the photo you can see toast displaying your name .
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
